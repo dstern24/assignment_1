@@ -1,0 +1,11 @@
+---
+title: "Assignment 1"
+output: html_document
+date: "2024-01-05"
+---
+
+Daniel Stern
+
+I am interested in city planning and real estate. I chose a data visualization that might be useful in a city planning/urban design/real estate investment type of environment. This one jumped out at me because it is from an area I have explored most: San Francisco, Oakland, and Berkeley. The research question that this visualization seems to attempt to answer is what locations in the San Francisco Bay Area are most visited by tourists and locals. The visualization draws data from photos posted to Flickr, using the geotag of the photos to determine the location, and using the frequency/longevity of the user's posting to determine whether they are (most likely) a tourist or a local. The author shares that they created this visualization in response to another visualization that also tracked the location of photos uploaded to Flickr, but did not differentiate between locals and tourists. 
+
+Is it TRUTHFUL? 
